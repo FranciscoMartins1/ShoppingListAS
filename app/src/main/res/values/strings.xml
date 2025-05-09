@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Compras</string>
+    <string name="all">Todos</string>
+    <string name="list">Carrinho</string>
+    <string name="miss">Falta</string>
+    <string name="sort">Ordenar</string>
+    <string name="refresh">Atualizar</string>
+    <string name="product">Nome do produto</string>
+    <string name="quantity">Quantidade</string>
+    <string name="onList">No carrinho</string>
+</resources>
